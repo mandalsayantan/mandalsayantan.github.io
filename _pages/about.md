@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: **Contact Me:**.s.mandal@eversincechomsky.com; sayantan.mandal@mail.concordia.ca.
+subtitle: <a href='#'>**Contact Me:**<a/>.s.mandal@eversincechomsky.com; sayantan.mandal@mail.concordia.ca.
 
 profile:
   align: right
