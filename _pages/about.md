@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Cognitive Neurobiology of Language & Linguistic Theory. s.mandal@eversincechomsky.com; sayantan.mandal@mail.concordia.ca.
+subtitle: **Cognitive Neurobiology of Language & Linguistic Theory**. Contact: s.mandal@eversincechomsky.com; sayantan.mandal@mail.concordia.ca.
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Rooms: 227, 408</p>
-    <p>Campus SJA3 - MSHS-SE, Université Nice Sophia Antipolis 4</p>
+    <p>Campus SJA3 - MSHS-SE, Université Cote d'Azure, Sophia Antipolis 4</p>
     <p>25 Av. François Mitterrand, 06357 Nice, France</p>
 
 news: true  # includes a list of news items
