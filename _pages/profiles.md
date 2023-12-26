@@ -5,7 +5,7 @@ title: people
 permalink: /people/
 description: Mentors
 nav: true
-nav_order: 8
+nav_order: 7
 horizontal: false
 ---
 
@@ -18,4 +18,4 @@ profiles:
     image_circular: false # crops the image to make it circular
     
  
----
+
