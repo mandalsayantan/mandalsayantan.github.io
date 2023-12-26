@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Contact Me:</a>.s.mandal@eversincechomsky.com; sayantan.mandal@mail.concordia.ca.
+subtitle: **Contact Me:**.s.mandal@eversincechomsky.com; sayantan.mandal@mail.concordia.ca.
 
 profile:
   align: right
@@ -18,7 +18,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am doctoral researcher at the [Concordia Center for Cognitive Science and Linguistics](https://www.concordia.ca/artsci/research/cognitive-science-linguistics.html) and a MITACS Globalink Researcher at CNRS's (France) [Bases, Corpus and Langage (BCL) Laboratory](https://bcl.cnrs.fr/) in Université Côte-d’Azur in Nice, France. I completed my doctoral coursework at the Center for Cognitive Science and Linguistics at Université Concordia in Montreal, Quebec (Canada), while most of my empirical research work is carried out under the banners of CNRS' BCL Laboratory, and the [School of Health](https://www.concordia.ca/schoolofhealth.html) (formerly, PERFORM Centre) in Concordia. Here I am supervised by [Prof. Tobias Scheer](http://sites.unice.fr/scheer/) and [Prof. Charles Reiss](https://explore.concordia.ca/charles-reiss).
+I am a doctoral researcher (submission date: February, 2024) at the [Concordia Center for Cognitive Science and Linguistics](https://www.concordia.ca/artsci/research/cognitive-science-linguistics.html) and a MITACS Globalink Researcher at CNRS's (France) [Bases, Corpus and Langage (BCL) Laboratory](https://bcl.cnrs.fr/) in Université Côte-d’Azur in Nice, France. I completed my doctoral coursework at the Center for Cognitive Science and Linguistics at Université Concordia in Montreal, Quebec (Canada), while most of my empirical research work is carried out under the banners of CNRS' BCL Laboratory, and the [School of Health](https://www.concordia.ca/schoolofhealth.html) (formerly, PERFORM Centre) in Concordia. Here I am supervised by [Prof. Tobias Scheer](http://sites.unice.fr/scheer/) and [Prof. Charles Reiss](https://explore.concordia.ca/charles-reiss).
 
 I study the human faculty of language from the twin perspectives of theoretical biolinguistics and cognitive neuroscience. Specifically, I explore the nature of phonological representations and operations, and their interaction with the sensori-motor systems involved in speech. 
 
