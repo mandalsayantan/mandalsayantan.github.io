@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>BCL Laboratory, CNRS, Université Cote d'Azur; Concordia Center for Cognitive Science & Linguistics</a>. s.mandal@eversincechomsky.com; sayantan.mandal@mail.concordia.ca.
+subtitle: Cognitive Neurobiology of Language & Linguistic Theory. s.mandal@eversincechomsky.com; sayantan.mandal@mail.concordia.ca.
 
 profile:
   align: right
