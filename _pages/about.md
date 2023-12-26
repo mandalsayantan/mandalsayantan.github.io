@@ -6,7 +6,7 @@ subtitle: <a href='#'>**Contact Me:**<a/>.s.mandal@eversincechomsky.com; sayanta
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Rooms: 227, 408</p>
