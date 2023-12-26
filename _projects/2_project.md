@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 2
+title: Neural Wetwares for Phonological Software
 description: Neural Correlates of Phonological Primes
 img: assets/img/fmri.png
 importance: 2
