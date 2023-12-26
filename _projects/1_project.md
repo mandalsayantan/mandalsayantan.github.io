@@ -2,7 +2,7 @@
 layout: page
 title: From Mind 2 Brain
 description: An EEG investigation of the neural signatures of phonological computations
-img: assets/img/12.jpg
+img: assets/img/eeg.png
 importance: 1
 category: Research
 related_publications:
