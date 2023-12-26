@@ -1,12 +1,11 @@
 
 ---
-layout: page
-title: people
+layout: profiles
 permalink: /people/
-description: Mentors
+title: people
+description: members of the lab or group
 nav: true
-nav_order: 7
-horizontal: false
+nav_order: 
 
 
 profiles:
