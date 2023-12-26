@@ -1,7 +1,8 @@
 ---
 layout: about
 title: about
-subtitle: s.mandal@eversincechomsky.com; sayantan.mandal@mail.concordia.ca.
+permalink: /
+subtitle: <a href='#'>Affiliations</a>.s.mandal@eversincechomsky.com; sayantan.mandal@mail.concordia.ca.
 
 profile:
   align: right
