@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink:  
 subtitle: **Cognitive Neurobiology of Language & Linguistic Theory**. Contact: s.mandal@eversincechomsky.com; sayantan.mandal@mail.concordia.ca.
 
 profile:
