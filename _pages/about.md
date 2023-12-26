@@ -1,8 +1,7 @@
 ---
 layout: about
 title: about
-permalink:  
-subtitle: Contact: s.mandal@eversincechomsky.com; sayantan.mandal@mail.concordia.ca.
+subtitle: s.mandal@eversincechomsky.com; sayantan.mandal@mail.concordia.ca.
 
 profile:
   align: right
