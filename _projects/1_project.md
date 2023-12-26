@@ -1,81 +1,29 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: From Mind 2 Brain
+description: An EEG investigation of the neural signatures of phonological computations
 img: assets/img/12.jpg
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+category: Research
+related_publications:
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Phonologists don't know what a phonological phenomenon is!**
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+In current phonological theory, a major problem is that there is no agreement on the set of phenomena that are phonological in kind and hence constitute the input for theory-building. Perspectives on a simple phenomenon such as the alternation between [k] and [s] in the word pair electri[k] - electri[s]-ity) significantly diverge: it is considered phonological in kind by some (i.e. there is one single underlier and phonological computation turns k into s upon each production), while placed outside of the purview of phonology by others: there are two distinct lexical recordings, either of whole words (electric and electricity), or of allomorphs (electri[k]- and electri[s]-) which are then selected in the appropriate morphological context.
+As a result, the popperian competition among theories is biased: a theory that accounts for the k-s alternation cannot be compared to a theory considering that k-s has nothing to do with phonology: the set of things to be explained is not the same, and wildly diverges at the scale of a language, or of phonology as such. Before theories can compete, the question thus needs to be settled what a true phonological phenomenon is.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Phonologists are thus curently in the position of, say, geologists who aim to make a theory of the characteristics of stone, but are unable to distinguish stone from plastic. They thus collect samples on which they build their theory, some of which contain 10% of plastic, others 30%, still others 60% and so on. Unsurprisingly enough, competing theories built on these wildly varying sets of empirical material then significantly diverge – not because of the theorizing itself but because of the plastic.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+The issue is identified at least since the early 1970s and has produced a sizeable body of literature then (evaluation metrics), but nothing could ever be concluded: there is no pre-teoretical criterion that wold allow us to decide whether a given alternation is stone or plastic. Since the early 80s, phonologists have abandoned looking into this problem, and regular sources of evidence (elicitation, phonetics, corpora / big data, typology or conceptual arguments) stand little chance to offer any advances.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+**How to tell plastic from stone**
+
+We believe that telling stone from plastic may be achieved by looking at the presence or absence of relevant neuro-physiological correlates of phonological activity (rather than examining indirect reflections thereof in the production or intuition of speakers).
+Based on electro-physiological evidence from a speech production task, Sahin et al. (2009) showed that there are at least three linguistically distinct processes that can be separated in time and space in the brain: first pieces (morphemes, words) are retrieved from long term memory (lexical access), then they are concatenated (morpho-syntax), and finally they are assigned a pronunciation (phonology). The study was performed using intracranial electrophysiology, i.e. by recording local field potentials from neuron populations using electrodes implanted (for clinical evaluation) in language-related brain regions of patients with epilepsy; the patients silently pronounced words or inflected versions of non-inflected stimuli.
+
+Sahin et al.'s (2009) results revealed that lexical access produced a significant neural response (ERP, Event-Related Potential) at ~200ms, concatenative activity provoked an ERP at ~320ms, and phonological computation induced an ERP at ~450ms. Sahin et al. thus provide an instrument that is able to detect the presence of phonological computation in language production (although this was not necessarily their goal). Whether or not the pronunciation of contentious cases such as electricity involves phonological computation may now be tested: we predict that if neural activity at around 450ms in the relevant experimental condition is absent, the production of electricity does not involve phonological computation.
+
+We have adapted Sahin et al.'s experimental setup to non-invasive scalp-level EEG, and a pilot study shows that their results can be reproduced using this modality. We will now run a number of contentious phenomena from a variety of languges (including the English k-s alternation known as velar softening) through our protocol in order to referee their status. Particularly exotic and contentious phenomena are identified by a PhD project on so-called Crazy Rules. In all our experiments, production-based scalp-level EEG (with IRM-supported source localization) will be flanked by behavioural data based on the same protocol and stimuli (vocal key-based reaction time), as well as by a study of the anatomic underpinnings (dMRI-based diffusion of information in the brain, subject-specific variation of the white matter).
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
