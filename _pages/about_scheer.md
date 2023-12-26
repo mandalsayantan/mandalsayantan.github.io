@@ -1,2 +1,2 @@
 
-Tobias Scheer is Professor of Linguistics at CNRS' Bases, Corpus and Language Laboratory, at the University of Cote d'Azur
+[**Tobias Scheer**](http://sites.unice.fr/scheer/tobweb/) is Professor of Linguistics at CNRS' Bases, Corpus and Language Laboratory, at the University of Cote d'Azur. Almost all of my research interests are directly or indirectly inspired by his continuing contributions to linguistic theory, modularity of mind, and phonology as a theory of mental/neural representations and computations. I was fortunate enough to have Tobias as my supervisor, and that has made all the difference in my life. Follow the link to learn more about his work. 
