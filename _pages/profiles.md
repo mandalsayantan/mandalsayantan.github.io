@@ -1,3 +1,12 @@
+
+---
+layout: page
+title: people
+permalink: /people/
+description: Mentors
+nav: true
+nav_order: 8
+horizontal: false
 ---
 
 profiles:
