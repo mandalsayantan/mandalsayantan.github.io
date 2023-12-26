@@ -1,1 +1,1 @@
-
+[**Charles Reiss**](https://explore.concordia.ca/charles-reiss) is Professor of Linguistics at Concordia University, Montreal, and Director of the Concordia Center for Cognitive Science & Linguistics. Alongwith Prof. Mark Hale he played a central role in reviving the substance-free program in phonological theory in the age of Optimality Theory. His view of phonological computations as purely algebraic, substance-blind symbolic operations has been the driving motivation behind my interest in phonological theory.
