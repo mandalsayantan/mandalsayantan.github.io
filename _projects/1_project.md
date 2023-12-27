@@ -1,7 +1,7 @@
 ---
 layout: page
-title: phonol|EEG|y 
-description: An EEG investigation of the neural signatures of phonological computations
+title: from mind 2 brain
+description: EEG investigations of the neural signatures of phonological computations
 img: assets/img/eeg.png
 importance: 1
 category: work
