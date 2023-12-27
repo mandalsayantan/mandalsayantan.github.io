@@ -1,6 +1,6 @@
 ---
 layout: page
-title: From Mind 2 Brain
+title: phonolEEGy 
 description: An EEG investigation of the neural signatures of phonological computations
 img: assets/img/eeg.png
 importance: 1
