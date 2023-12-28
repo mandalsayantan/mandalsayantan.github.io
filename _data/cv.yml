@@ -13,10 +13,10 @@
       institution: Université Concordia, Montréal, Quebec.
       year: 2024
       description:
-        - Dissertation Title: Ghost in the Cell Representing and Computing Phonology in the Brain.
+        - Dissertation Title: "Ghost in the Cell: Representing and Computing Phonology in the Brain."
         - Supervisors:
-          - Prof. Tobias Scheer (CNRS, France)
-          - Prof. Charles Reiss (Concordia, Montréal)
+          - "Prof. Tobias Scheer (CNRS, France)"
+          - "Prof. Charles Reiss (Concordia, Montréal)"
         - title: Specialization
           contents:
             - Experimental Neurolinguistics
@@ -30,11 +30,11 @@
       institution: MARCS Institute of Brain, Behavior and Development, Sydney, Australia
       year: 2017
       description:
-        - Project Title: Bilingual Phonology, Dichotic Listening & Hemispheric Integration of Information in Language Perception & Production.
+        - Project Title: "Bilingual Phonology, Dichotic Listening & Hemispheric Integration of Information in Language Perception & Production."
         - Supervisors:
-          - Prof. Catherine T. Best (MARCS)
-          - Prof. Anne Cutler (MARCS; Max Planck Institute of Psycholinguistics)
-          - Prof. Jason Shaw (MARCS; Yale University)
+          - "Prof. Catherine T. Best (MARCS)"
+          - "Prof. Anne Cutler (MARCS; Max Planck Institute of Psycholinguistics)"
+          - "Prof. Jason Shaw (MARCS; Yale University)"
         - title: Specialization
           contents:
             - Experimental Psycholinguistics
@@ -46,8 +46,8 @@
       institution: The University of Auckland, New Zealand
       year: 2013
       description:
-        - Dissertation Title: Coronal Obstruents and Constraint Interactions in Bangla.
-        - Supervisors: Prof. Jason Brown
+        - Dissertation Title: "Coronal Obstruents and Constraint Interactions in Bangla."
+        - Supervisors: "Prof. Jason Brown"
         - title: Specialization
           contents:
             - Phonological Theory
@@ -59,8 +59,8 @@
       institution: E.F.L. University, India
       year: 2010
       description:
-        - Dissertation Title: Bangla coronal assimilation.
-        - Supervisors: Prof. K.G. Vijaykrishnan
+        - Dissertation Title: "Bangla coronal assimilation."
+        - Supervisors: "Prof. K.G. Vijaykrishnan"
         - title: Specialization
           contents:
             - Phonological Theory
@@ -73,129 +73,128 @@
       institution: Centre national de la recherche scientifique, CNRS (Nice, France)
       year: 2023 - 2024
       description:
-        - Project Title: From Mind 2 Brain.
-        - Description: Isolating the neurophysiological signatures unique to phonological computations.
-        - Supervisor: Prof. Tobias Scheer
+        - Project Title: "From Mind 2 Brain."
+        - Description: "Isolating the neurophysiological signatures unique to phonological computations."
+        - Supervisor: "Prof. Tobias Scheer"
 
     - title: Research Assistant
       institution: Université Concordia, Montréal, Quebec
       year: 2022-2023
       description:
-        - Project: Neural network learning algorithms for an NLP speech analysis system based on photonics with mental health diagnosis applications.
-        - Supervisor: Prof. Charles Reiss
+        - Project: "Neural network learning algorithms for an NLP speech analysis system based on photonics with mental health diagnosis applications."
+        - Supervisor: "Prof. Charles Reiss"
 
     - title: Graduate Teaching Assistant
       institution: Université Concordia, Montréal, Quebec.
       year: 2020 - 2023
-      courses: Introduction to Phonology (2020), Language Acquisition and Universal Grammar (2021), Advanced Phonology (2021), Psycholinguistics (2022, 2023)
+      courses: "Introduction to Phonology (2020)", "Language Acquisition and Universal Grammar (2021)", "Advanced Phonology (2021)", "Psycholinguistics (2022, 2023)"
 
     - title: Professional Teaching Fellow
       institution: The University of Auckland, New Zealand
       year: 2017
-      courses: Advanced Phonology, Morphophonology
+      courses: "Advanced Phonology", "Morphophonology"
 
     - title: Research Assistant
       institution: The University of Auckland, New Zealand
       year: 2017
       description:
-        - Laboratory Phonetics
+        - "Laboratory Phonetics"
 
 - title: Open Source Projects
   type: time_table
   contents:
     - title: "<a href='https://github.com/mandalsayantan/The-Summer-of-Python'>The-Summer-of-Python</a>"
       year: 2022-now
-      description: A customized forked course for programming in Python for cognitive scientists.
+      description: "A customized forked course for programming in Python for cognitive scientists."
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2022
       items:
-        - Mitacs Globalink Research Award (IT34244)
+        - "Mitacs Globalink Research Award (IT34244)"
 
     - year: 2019
       items:
-        - Louise Dandurand Scholarship in Interdisciplinary Studies, Concordia University, Montreal. [Valued At: CAD. 15,000.]
-        - Concordia International Tuition Award of Excellence, Concordia University, Montreal. [Valued At: CAD. 43,211]
+        - "Louise Dandurand Scholarship in Interdisciplinary Studies, Concordia University, Montreal. [Valued At: CAD. 15,000.]"
+        - "Concordia International Tuition Award of Excellence, Concordia University, Montreal. [Valued At: CAD. 43,211]"
 
     - year: 2018
       items:
-        - Norwegian Summer Institute of Language and Mind Student Scholarship. [Valued At: 8,900 KRON]
+        - "Norwegian Summer Institute of Language and Mind Student Scholarship. [Valued At: 8,900 KRON]"
 
     - year: 2016
       items:
-        - Research Bursary, University of Auckland (Declined). [Valued At: NZD. 15,000].
+        - "Research Bursary, University of Auckland (Declined). [Valued At: NZD. 15,000]."
 
     - year: 2015
       items:
-        - MARCS Professional Development Award, MARCS Institute, Western Sydney University. [Valued At: AUD. 5000]
+        - "MARCS Professional Development Award, MARCS Institute, Western Sydney University. [Valued At: AUD. 5000]"
 
     - year: 2014
       items:
-        - MARCS Research Training Award, MARCS Institute, Western Sydney University. [Valued At: AUD. 5000].
+        - "MARCS Research Training Award, MARCS Institute, Western Sydney University. [Valued At: AUD. 5000]."
 
     - year: 2013
       items:
-        - MARCS HDR Scholarship, MARCS Institute, Western Sydney University. [Valued At: AUD. 93,600]
+        - "MARCS HDR Scholarship, MARCS Institute, Western Sydney University. [Valued At: AUD. 93,600]"
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Cognitive Neuroscience 
+    - title: "Cognitive Neuroscience" 
       items:
-        - Neurobiology of Language.
-        - Transduction from sensory data to algebraic representations in the brain.
-        - Neural correlates and neurophysiological signatures of phonological primes and computations.
-        - Electrophysiological (EEG) Methods in Cognitive Neuroscience of Language.
-        - Functional Magnetic Resonance Imaging (fMRI).
+        - "Neurobiology of Language."
+        - "Transduction from sensory data to algebraic representations in the brain."
+        - "Neural correlates and neurophysiological signatures of phonological primes and computations."
+        - "Electrophysiological (EEG) Methods in Cognitive Neuroscience of Language."
+        - "Functional Magnetic Resonance Imaging (fMRI)."
         
-    - title: Theories of Cognition 
+    - title: "Theories of Cognition" 
       items:
-        - Modularity of Mind.
-        - Cognition as Computation.
-        - Minimalist Grammars.
-        - Integrated Connectionist-Symbolism.    
+        - "Modularity of Mind."
+        - "Cognition as Computation."
+        - "Minimalist Grammars."
+        - "Integrated Connectionist-Symbolism."    
 
-    - title: Biolinguistics.
+    - title: "Biolinguistics."
       items:
-        - Animal comparanda for phonological computations.
-        - Evolution and origins of the faculty of language.
-        - Role of Third-Factors in Phonology.
-        - Innateness in Phonology.
+        - "Animal comparanda for phonological computations."
+        - "Evolution and origins of the faculty of language."
+        - "Role of Third-Factors in Phonology."
+        - "Innateness in Phonology."
         
-    - title: Linguistic Theory.
+    - title: "Linguistic Theory."
       items:
-        - Phonological Theory, particularly Radically Substance-Free Phonology.
-        - Phonology and Phonetics Interface.
-        - Computational Models of Speech Perception and Production.
+        - "Phonological Theory, particularly Radically Substance-Free Phonology."
+        - "Phonology and Phonetics Interface."
+        - "Computational Models of Speech Perception and Production."
 
-- title: Academic & Research Skills
-  type: nested_list
+- title: "Academic & Research Skills"
+  type: "nested_list"
   contents:
-    - title: Neuroimaging 
+    - title: "Neuroimaging" 
       items:
-        - fMRI: Competent in General Electronics MR-750 scanner operation.
-        - Versatile in fMRI data analyses softwares, FMRIB-FSL and SPM-12.
-        - EEG: Fully trained in both Compumedics Neuroscan and Biosemi systems
-        - Competent in electro-physiological data analyses suites, both MNE and EEGLab.
+        - "fMRI: Competent in General Electronics MR-750 scanner operation."
+        - "Versatile in fMRI data analyses softwares, FMRIB-FSL and SPM-12."
+        - "EEG: Fully trained in both Compumedics Neuroscan and Biosemi systems."
+        - "Competent in electro-physiological data analyses suites, both MNE and EEGLab."
       
-        
-    - title: Quantitative and Mathematical
+    - title: "Quantitative and Mathematical"
       items:
-        - Bayesian and Stochastic Methods in Cognitive Science.
-        - Descriptive and Inferential Statistics. 
-        - Correlations Analyses.
-        - Classification and Regression Trees (CART).
-        - Cluster Analysis.
-        - Autoregressive Integrated Moving Average (ARIMA)
+        - "Bayesian and Stochastic Methods in Cognitive Science."
+        - "Descriptive and Inferential Statistics." 
+        - "Correlations Analyses."
+        - "Classification and Regression Trees (CART)."
+        - "Cluster Analysis."
+        - "Autoregressive Integrated Moving Average (ARIMA)"
 
-    - title: Computational and Programming
+    - title: "Computational and Programming"
       items:
-        - Advanced skills in Python and R.
-        - Versatile in e-Basic and E-Prime. 
-        - TensorFlow and Keras.
-        - MNE-Python.
-        - PyTorch.
-        - Versatile in the Linux-Kernel and Bash-Shell.
-        - Autoregressive Integrated Moving Average (ARIMA).
+        - "Advanced skills in Python and R."
+        - "Versatile in e-Basic and E-Prime." 
+        - "TensorFlow and Keras."
+        - "MNE-Python."
+        - "PyTorch."
+        - "Versatile in the Linux-Kernel and Bash-Shell."
+        - "Autoregressive Integrated Moving Average (ARIMA)"
