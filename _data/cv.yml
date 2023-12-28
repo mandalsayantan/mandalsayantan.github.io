@@ -87,7 +87,12 @@
     - title: Graduate Teaching Assistant
       institution: Université Concordia, Montréal, Quebec.
       year: 2020 - 2023
-      courses: "Introduction to Phonology (2020)", "Language Acquisition and Universal Grammar (2021)", "Advanced Phonology (2021)", "Psycholinguistics (2022, 2023)"
+      courses: 
+        - "Introduction to Phonology (2020)"
+        - "Language Acquisition and Universal Grammar (2021)"
+        - "Advanced Phonology (2021)"
+        - "Psycholinguistics (2022, 2023)"
+
 
     - title: Professional Teaching Fellow
       institution: The University of Auckland, New Zealand
