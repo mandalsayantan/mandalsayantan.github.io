@@ -146,17 +146,16 @@
       items:
         - Neurobiology of Language.
         - Transduction from sensory data to algebraic representations in the brain.
-        - Neurla correlates and neurophysiological signatures of phonological primes and computations.
+        - Neural correlates and neurophysiological signatures of phonological primes and computations.
         - Electrophysiological (EEG) Methods in Cognitive Neuroscience of Language.
-        - functional Magnetic Resonance Imaging (fMRI).
+        - Functional Magnetic Resonance Imaging (fMRI).
         
- - title: Theories of Cognition 
+    - title: Theories of Cognition 
       items:
         - Modularity of Mind.
         - Cognition as Computation.
         - Minimalist Grammars.
         - Integrated Connectionist-Symbolism.    
-
 
     - title: Biolinguistics.
       items:
@@ -179,10 +178,10 @@
         - fMRI: Competent in General Electronics MR-750 scanner operation.
         - Versatile in fMRI data analyses softwares, FMRIB-FSL and SPM-12.
         - EEG: Fully trained in both Compumedics Neuroscan and Biosemi systems
-        - Comptetent in electro-physiological data analyses suites, both MNE and EEGLab.
+        - Competent in electro-physiological data analyses suites, both MNE and EEGLab.
       
         
-   - title: Quantitative and Mathematical
+    - title: Quantitative and Mathematical
       items:
         - Bayesian and Stochastic Methods in Cognitive Science.
         - Descriptive and Inferential Statistics. 
@@ -191,7 +190,7 @@
         - Cluster Analysis.
         - Autoregressive Integrated Moving Average (ARIMA)
 
-  - title: Computational and Programming
+    - title: Computational and Programming
       items:
         - Advanced skills in Python and R.
         - Versatile in e-Basic and E-Prime. 
@@ -199,5 +198,4 @@
         - MNE-Python.
         - PyTorch.
         - Versatile in the Linux-Kernel and Bash-Shell.
-        - Autoregressive Integrated Moving Average (ARIMA)
-
+        - Autoregressive Integrated Moving Average (ARIMA).
