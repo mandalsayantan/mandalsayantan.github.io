@@ -97,7 +97,9 @@
     - title: Professional Teaching Fellow
       institution: The University of Auckland, New Zealand
       year: 2017
-      courses: "Advanced Phonology", "Morphophonology"
+      courses: 
+        - "Advanced Phonology" 
+        - "Morphophonology"
 
     - title: Research Assistant
       institution: The University of Auckland, New Zealand
