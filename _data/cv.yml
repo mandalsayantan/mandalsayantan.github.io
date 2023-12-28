@@ -87,7 +87,7 @@
     - title: Graduate Teaching Assistant
       institution: Université Concordia, Montréal, Quebec.
       year: 2020 - 2023
-      courses: Introduction to Phonology (2020), Language Acquisition and Universal Grammar (2021), Advanced Phonology (2021), Psycholinguistics (2022,2023)
+      courses: Introduction to Phonology (2020), Language Acquisition and Universal Grammar (2021), Advanced Phonology (2021), Psycholinguistics (2022, 2023)
 
     - title: Professional Teaching Fellow
       institution: The University of Auckland, New Zealand
@@ -105,32 +105,99 @@
   contents:
     - title: "<a href='https://github.com/mandalsayantan/The-Summer-of-Python'>The-Summer-of-Python</a>"
       year: 2022-now
-      description: An customized forked course for programming in python for cognitive scientists.
+      description: A customized forked course for programming in Python for cognitive scientists.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Mitacs Globalink Research Award (IT34244)
+
+    - year: 2019
       items:
-        - Max Planck Medal
+        - Louise Dandurand Scholarship in Interdisciplinary Studies, Concordia University, Montreal. [Valued At: CAD. 15,000.]
+        - Concordia International Tuition Award of Excellence, Concordia University, Montreal. [Valued At: CAD. 43,211]
+
+    - year: 2018
+      items:
+        - Norwegian Summer Institute of Language and Mind Student Scholarship. [Valued At: 8,900 KRON]
+
+    - year: 2016
+      items:
+        - Research Bursary, University of Auckland (Declined). [Valued At: NZD. 15,000].
+
+    - year: 2015
+      items:
+        - MARCS Professional Development Award, MARCS Institute, Western Sydney University. [Valued At: AUD. 5000]
+
+    - year: 2014
+      items:
+        - MARCS Research Training Award, MARCS Institute, Western Sydney University. [Valued At: AUD. 5000].
+
+    - year: 2013
+      items:
+        - MARCS HDR Scholarship, MARCS Institute, Western Sydney University. [Valued At: AUD. 93,600]
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1
+    - title: Cognitive Neuroscience 
       items:
-        - Description 1
-        - Description 2
-    - title: Topic 2
+        - Neurobiology of Language.
+        - Transduction from sensory data to algebraic representations in the brain.
+        - Neurla correlates and neurophysiological signatures of phonological primes and computations.
+        - Electrophysiological (EEG) Methods in Cognitive Neuroscience of Language.
+        - functional Magnetic Resonance Imaging (fMRI).
+        
+ - title: Theories of Cognition 
       items:
-        - Description 1
-        - Description 2
+        - Modularity of Mind.
+        - Cognition as Computation.
+        - Minimalist Grammars.
+        - Integrated Connectionist-Symbolism.    
 
-- title: Other Interests
-  type: list
+
+    - title: Biolinguistics.
+      items:
+        - Animal comparanda for phonological computations.
+        - Evolution and origins of the faculty of language.
+        - Role of Third-Factors in Phonology.
+        - Innateness in Phonology.
+        
+    - title: Linguistic Theory.
+      items:
+        - Phonological Theory, particularly Radically Substance-Free Phonology.
+        - Phonology and Phonetics Interface.
+        - Computational Models of Speech Perception and Production.
+
+- title: Academic & Research Skills
+  type: nested_list
   contents:
-    - Hobbies: Hobby 1, Hobby 2, etc.
+    - title: Neuroimaging 
+      items:
+        - fMRI: Competent in General Electronics MR-750 scanner operation.
+        - Versatile in fMRI data analyses softwares, FMRIB-FSL and SPM-12.
+        - EEG: Fully trained in both Compumedics Neuroscan and Biosemi systems
+        - Comptetent in electro-physiological data analyses suites, both MNE and EEGLab.
+      
+        
+   - title: Quantitative and Mathematical
+      items:
+        - Bayesian and Stochastic Methods in Cognitive Science.
+        - Descriptive and Inferential Statistics. 
+        - Correlations Analyses.
+        - Classification and Regression Trees (CART).
+        - Cluster Analysis.
+        - Autoregressive Integrated Moving Average (ARIMA)
+
+  - title: Computational and Programming
+      items:
+        - Advanced skills in Python and R.
+        - Versatile in e-Basic and E-Prime. 
+        - TensorFlow and Keras.
+        - MNE-Python.
+        - PyTorch.
+        - Versatile in the Linux-Kernel and Bash-Shell.
+        - Autoregressive Integrated Moving Average (ARIMA)
+
