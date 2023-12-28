@@ -148,14 +148,14 @@
         - "Transduction from sensory data to algebraic representations in the brain."
         - "Neural correlates and neurophysiological signatures of phonological primes and computations."
         - "Electrophysiological (EEG) Methods in Cognitive Neuroscience of Language."
-        - "Functional Magnetic Resonance Imaging (fMRI)."
-        
-    - title: "Theories of Cognition" 
+        - "functional Magnetic Resonance Imaging (fMRI)."
+
+    - title: "Theories of Cognition"
       items:
         - "Modularity of Mind."
         - "Cognition as Computation."
         - "Minimalist Grammars."
-        - "Integrated Connectionist-Symbolism."    
+        - "Integrated Connectionist-Symbolism."
 
     - title: "Biolinguistics."
       items:
@@ -163,7 +163,7 @@
         - "Evolution and origins of the faculty of language."
         - "Role of Third-Factors in Phonology."
         - "Innateness in Phonology."
-        
+
     - title: "Linguistic Theory."
       items:
         - "Phonological Theory, particularly Radically Substance-Free Phonology."
@@ -179,7 +179,7 @@
         - "Versatile in fMRI data analyses softwares, FMRIB-FSL and SPM-12."
         - "EEG: Fully trained in both Compumedics Neuroscan and Biosemi systems."
         - "Competent in electro-physiological data analyses suites, both MNE and EEGLab."
-      
+
     - title: "Quantitative and Mathematical"
       items:
         - "Bayesian and Stochastic Methods in Cognitive Science."
