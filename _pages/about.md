@@ -9,7 +9,7 @@ profile:
   image: me.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Rooms: 227, 408</p>
+    <p>Rooms: 229, 408</p>
     <p>Campus SJA3 - MSHS-SE, Université Cote d'Azure, Sophia Antipolis 4</p>
     <p>25 Av. François Mitterrand, 06357 Nice, France</p>
 
