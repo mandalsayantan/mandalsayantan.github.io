@@ -3,7 +3,6 @@
   contents:
     - name: Full Name
       value: Sayantan Mandal
-  
     - name: Languages
       value: English, French, Hindi, Bangla
 
@@ -14,94 +13,97 @@
       institution: Université Concordia, Montréal, Quebec.
       year: 2024
       description:
-        - Dissertation Title = Ghost in the Cell Representing and Computing Phonology in the Brain.
-        - Supervisors = Prof. Tobias Scheer (CNRS, France); Prof. Charles Reiss (Concordia, Montréal)
-        - title: Specialization.
+        - Dissertation Title: Ghost in the Cell Representing and Computing Phonology in the Brain.
+        - Supervisors:
+          - Prof. Tobias Scheer (CNRS, France)
+          - Prof. Charles Reiss (Concordia, Montréal)
+        - title: Specialization
           contents:
-            - Experimental Neurolinguistics.
-            - Phonological Theory as Cognitive Science.
-            - Electro-encephalography (EEG).
-            - functional Magnetic Resonance Imaging (fMRI).
-            - Generative Theory and Minimalism.
-            - Biolinguistics & Psycholinguistics.
-            
+            - Experimental Neurolinguistics
+            - Phonological Theory as Cognitive Science
+            - Electro-encephalography (EEG)
+            - Functional Magnetic Resonance Imaging (fMRI)
+            - Generative Theory and Minimalism
+            - Biolinguistics & Psycholinguistics
+
     - title: PhD (ABD, All But Dissertation)
-      institution: MARCS Institute of Brain, Behavior and Delopment, Sydney, Australia
+      institution: MARCS Institute of Brain, Behavior and Development, Sydney, Australia
       year: 2017
       description:
-        - Project Title = Bilingual Phonology, Dichotic Listening & Hemispheric Integration of Information in Language Perception & Production.
-        - Supervisors = Prof. Catherine T. Best (MARCS); Prof. Anne Cutler (MARCS; Max Planck Institute of Psycholinguistics); Prof. Jason Shaw (MARCS; Yale University).
-        - title: Specialization.
+        - Project Title: Bilingual Phonology, Dichotic Listening & Hemispheric Integration of Information in Language Perception & Production.
+        - Supervisors:
+          - Prof. Catherine T. Best (MARCS)
+          - Prof. Anne Cutler (MARCS; Max Planck Institute of Psycholinguistics)
+          - Prof. Jason Shaw (MARCS; Yale University)
+        - title: Specialization
           contents:
-            - Experimental Psycholinguistics.
-            - Cognitive Psychology and Linguistic Theory.
-            - Speech perception.
-            - Behavioral methods.
-            
+            - Experimental Psycholinguistics
+            - Cognitive Psychology and Linguistic Theory
+            - Speech perception
+            - Behavioral methods
+
     - title: MA HONOURS
       institution: The University of Auckland, New Zealand
       year: 2013
       description:
-        - Dissertation Title = Coronal Obstruents and Constraint Interactions in Bangla.
-        - Supervisors = Prof. Jason Brown
-        - title: Specialization.
+        - Dissertation Title: Coronal Obstruents and Constraint Interactions in Bangla.
+        - Supervisors: Prof. Jason Brown
+        - title: Specialization
           contents:
-            - Phonological Theory.
-            - Optimality Theory.
-            - Linguistic Field Work.
-            - Endangered and Indigenous Language Documentation.
-      
-   
-      - title: M.A.  
+            - Phonological Theory
+            - Optimality Theory
+            - Linguistic Field Work
+            - Endangered and Indigenous Language Documentation
+
+    - title: M.A.
       institution: E.F.L. University, India
       year: 2010
       description:
-        - Dissertation Title = Bangla coronal assimilation.
-        - Supervisors = Prof. K.G. Vijaykrishnan
-        - title: Specialization.
+        - Dissertation Title: Bangla coronal assimilation.
+        - Supervisors: Prof. K.G. Vijaykrishnan
+        - title: Specialization
           contents:
-            - Phonological Theory.
-            - Generative Grammar.
-            
+            - Phonological Theory
+            - Generative Grammar
 
 - title: Experience
   type: time_table
   contents:
-    - title: MITACS Globalink Research Fellow.
+    - title: MITACS Globalink Research Fellow
       institution: Centre national de la recherche scientifique, CNRS (Nice, France)
       year: 2023 - 2024
       description:
-        - Project Title = From Mind 2 Brain.
-        - Description = Isolating the neurophysiological signatures unique to phonological computations.
-        - Supervisor = Prof. Tobias Scheer.
-          
+        - Project Title: From Mind 2 Brain.
+        - Description: Isolating the neurophysiological signatures unique to phonological computations.
+        - Supervisor: Prof. Tobias Scheer
+
     - title: Research Assistant
       institution: Université Concordia, Montréal, Quebec
       year: 2022-2023
       description:
-        - Project Neural network learning algorithms for a NLP speech analysis system based on photonics with mental health diagnosis applications.
-        - Supervisor = Prof. Charles Reiss.
+        - Project: Neural network learning algorithms for an NLP speech analysis system based on photonics with mental health diagnosis applications.
+        - Supervisor: Prof. Charles Reiss
 
     - title: Graduate Teaching Assistant
       institution: Université Concordia, Montréal, Quebec.
       year: 2020 - 2023
-      courses: Introduction to Phonology (2020), Language Acquisition and Universal Grammar (2021), Advanced Phonology (2021), Psycholinguistics (2022,2023).
+      courses: Introduction to Phonology (2020), Language Acquisition and Universal Grammar (2021), Advanced Phonology (2021), Psycholinguistics (2022,2023)
 
     - title: Professional Teaching Fellow
       institution: The University of Auckland, New Zealand
       year: 2017
-      courses: Advanced Phonology, Morphophonology.
+      courses: Advanced Phonology, Morphophonology
 
     - title: Research Assistant
       institution: The University of Auckland, New Zealand
       year: 2017
       description:
-        - Laboratory Phonetics.
+        - Laboratory Phonetics
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/mandalsayantan/The-Summer-of-Python">The-Summer-of-Python</a>
+    - title: "<a href='https://github.com/mandalsayantan/The-Summer-of-Python'>The-Summer-of-Python</a>"
       year: 2022-now
       description: An customized forked course for programming in python for cognitive scientists.
 
@@ -109,26 +111,26 @@
   type: time_table
   contents:
     - year: 1921
-      items: 
-        - Nobel Prize in Physics 
+      items:
+        - Nobel Prize in Physics
         - Matteucci Medal
     - year: 2029
-      items: 
+      items:
         - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Topic 1
       items:
-        - Description 1.
-        - Description 2.
+        - Description 1
+        - Description 2
+    - title: Topic 2
+      items:
+        - Description 1
+        - Description 2
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Hobbies: Hobby 1, Hobby 2, etc.
