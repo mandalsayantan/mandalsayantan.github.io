@@ -170,14 +170,14 @@
         - "Phonology and Phonetics Interface."
         - "Computational Models of Speech Perception and Production."
 
-- title: "Academic & Research Skills"
-  type: "nested_list"
+- title: Academic & Research Skills
+  type: nested_list
   contents:
     - title: "Neuroimaging" 
       items:
         - "fMRI: Competent in General Electronics MR-750 scanner operation."
         - "Versatile in fMRI data analyses softwares, FMRIB-FSL and SPM-12."
-        - "EEG: Fully trained in both Compumedics Neuroscan and Biosemi systems."
+        - "EEG: Fully trained in both Compumedics Neuroscan and Biosemi systems"
         - "Competent in electro-physiological data analyses suites, both MNE and EEGLab."
 
     - title: "Quantitative and Mathematical"
