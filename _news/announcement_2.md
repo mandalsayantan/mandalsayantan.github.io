@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-"Awarded the MITACS Globalink Research fellowship for 2023."
+Awarded the MITACS Globalink Research fellowship for 2023.
