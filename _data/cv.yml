@@ -19,12 +19,12 @@
           - "Prof. Charles Reiss (Concordia, Montréal)"
         - title: Specialization
           contents:
-            - Experimental Neurolinguistics
-            - Phonological Theory as Cognitive Science
-            - Electro-encephalography (EEG)
-            - Functional Magnetic Resonance Imaging (fMRI)
-            - Generative Theory and Minimalism
-            - Biolinguistics & Psycholinguistics
+            - "Experimental Neurolinguistics"
+            - "Phonological Theory as Cognitive Science"
+            - "Electro-encephalography (EEG)"
+            - "Functional Magnetic Resonance Imaging (fMRI)"
+            - "Generative Theory and Minimalism"
+            - "Biolinguistics & Psycholinguistics"
 
     - title: PhD (ABD, All But Dissertation)
       institution: MARCS Institute of Brain, Behavior and Development, Sydney, Australia
@@ -37,10 +37,10 @@
           - "Prof. Jason Shaw (MARCS; Yale University)"
         - title: Specialization
           contents:
-            - Experimental Psycholinguistics
-            - Cognitive Psychology and Linguistic Theory
-            - Speech perception
-            - Behavioral methods
+            - "Experimental Psycholinguistics"
+            - "Cognitive Psychology and Linguistic Theory"
+            - "Speech perception"
+            - "Behavioral methods"
 
     - title: MA HONOURS
       institution: The University of Auckland, New Zealand
@@ -50,10 +50,10 @@
         - Supervisors: "Prof. Jason Brown"
         - title: Specialization
           contents:
-            - Phonological Theory
-            - Optimality Theory
-            - Linguistic Field Work
-            - Endangered and Indigenous Language Documentation
+            - "Phonological Theory"
+            - "Optimality Theory"
+            - "Linguistic Field Work"
+            - "Endangered and Indigenous Language Documentation"
 
     - title: M.A.
       institution: E.F.L. University, India
@@ -63,8 +63,8 @@
         - Supervisors: "Prof. K.G. Vijaykrishnan"
         - title: Specialization
           contents:
-            - Phonological Theory
-            - Generative Grammar
+            - "Phonological Theory"
+            - "Generative Grammar"
 
 - title: Experience
   type: time_table
