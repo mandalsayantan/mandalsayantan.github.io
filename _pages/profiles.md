@@ -28,6 +28,11 @@ profiles:
     content: about_charles.md
     image_circular: false # crops the image to make it circular
 
+  - align: left
+    image: reiss.png
+    content: about_jason.md
+    image_circular: false # crops the image to make it circular
+
 ---
     
  
