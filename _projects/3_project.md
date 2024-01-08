@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Velar Palatalization: Phonology vs. Phonetics vs. Diachrony
+title: 3 Colors of Velar Palatalization
 description: 
 img: assets/img/velar.jpg
 importance: 1
