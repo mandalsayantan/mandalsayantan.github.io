@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /mentors/
 title: mentors
-description: 
+description: A non-exhaustive list of people I have been fortunate enough to learn from...
 nav: true
 nav_order: 7
 
