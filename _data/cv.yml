@@ -174,8 +174,11 @@
     - title: "Linguistic Theory."
       items:
         - "Phonological Theory, particularly Radically Substance-Free Phonology."
-        - "Phonology and Phonetics Interface."
+        - "Phonology and Phonetics Interface & Theories of Sensory Transduction"
         - "Computational Models of Speech Perception and Production."
+        - "Mathematical Linguistics & Sub-regular Phonology".
+        - "Minimalism"
+        - "Government Phonology"
 
 - title: Academic & Research Skills
   type: nested_list
