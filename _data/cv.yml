@@ -169,16 +169,22 @@
         - "Animal comparanda for phonological computations."
         - "Evolution and origins of the faculty of language."
         - "Role of Third-Factors in Phonology."
-        - "Innateness in Phonology."
+        - "Universal Generative Faculty."
+        - "Xenolinguistics."
+        - "Innate Endowments in Phonology."
+        - "Articulatory Phonetics."
+        - "Perceptual Assimilation and Sound Change."
 
     - title: "Linguistic Theory."
       items:
-        - "Phonological Theory, particularly Radically Substance-Free Phonology."
+        - "Phonological Theory, particularly (Radically) Substance-Free Phonology."
         - "Phonology and Phonetics Interface & Theories of Sensory Transduction."
+        - "Government Phonology & Strict CV."
+        - "Universal Boundary Theory & Flat Phonology."
         - "Computational Models of Speech Perception and Production."
-        - "Mathematical Linguistics & Subregular Phonology."
+        - "Mathematical Linguistics & Sub-regular Phonology."
         - "Minimalism."
-        - "Government Phonology."
+        
 
 - title: Academic & Research Skills
   type: nested_list
