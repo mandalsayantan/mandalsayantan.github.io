@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: Codes, programs and such. The "Summer of Python" fork is temporarily on-hold as I am currently snowed-in under other stuff. 
 nav: true
-nav_order: 4
+nav_order: 7
 ---
 
 ## GitHub users
