@@ -4,7 +4,7 @@ permalink: /conferences/
 title: conferences
 description: Conference presentations and such...
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 **Mandal, S. & Biswas, B. (2023).** Partially-veridical transductions at the phonetics-phonology interface. 45th Annual Conference of the LInguistic Society of India, Aligarh Muslim University, Aligarh, India.
 
