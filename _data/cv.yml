@@ -110,6 +110,12 @@
 - title: Open Source Projects
   type: time_table
   contents:
+    - title: "<a href='https://github.com/mandalsayantan/Mind-2-Brain'>Mind-2-Brainn</a>"
+      year: 2023-now
+      description: "A Python Script for EEG stimulus presentation with timing accuracy checks using photodiodes."
+    - title: "<a href='https://github.com/mandalsayantan/fMRI-Block-Related-Minimal-Pair-Protocols'>TfMRI-Block-Related-Minimal-Pair-Protocols</a>"
+      year: 2023
+      description: "A set of GNU Octave scripts for visual, perceptual and production experiments using fMRI."
     - title: "<a href='https://github.com/mandalsayantan/The-Summer-of-Python'>The-Summer-of-Python</a>"
       year: 2022-now
       description: "A customized forked course for programming in Python for cognitive scientists."
