@@ -14,9 +14,9 @@ nav_order: 3
 
 **Mandal, S. (2023).** Ghosts in the Cell: Neural Substrates for Phonological Features. 2nd PhonolEEGy Conference, University of Massachusetts, Amherst, USA.
 
-**Mandal, S. (2023)** How Flat Can Phonology Be?. French Phonology Network (RFP) Annual Conference, 2023, Niece, France.
+**Mandal, S. (2023)** Can Phonology be Completely Flat?. French Phonology Network (RFP) Annual Conference, 2023, Niece, France.
 
-**Mandal, S. (2023).** Ghosts in the Cells: From Vibrations in the Ear to Abstractions in the Brain. Cluster on Language Research Symposium, UC Davis, USA.
+**Mandal, S. (2023).** Phonological Primes: From Vibrations in the Ear to Abstractions in the Brain. Cluster on Language Research Symposium, UC Davis, USA.
 
 **Mandal, S. (2023).** Implications of a Completely Flat Phonology. Twelfth North American Phonology Conference (NAPhCxii), Université Concordia, Montreal, Quebec.
 
@@ -24,7 +24,7 @@ nav_order: 3
 
 **Mandal, S. (2023).** Syllable-Free Phonology. 47th Penn Linguistics Conference, University ofPennsylvania. [Withdrawn due to immigration issues].
 
-**Mandal, S. (2023).** Ghost in the Cell: How the Brain Creates Symbols from Vibrations. Shifting the Balance:INDI Research Day, Concordia University, Montreal.
+**Mandal, S. (2023).** Ghosts in the Cell: How the Brain Creates Symbols from Vibrations. Shifting the Balance:INDI Research Day, Concordia University, Montreal.
 
 **Mandal, S. (2022).** The Cognitive Phonetics of Velar Palatalization.2022 Western Conference on Linguistics, California State University, Fresno, California.
 
