@@ -17,8 +17,7 @@
         - Supervisors:
           - "Prof. Tobias Scheer (CNRS, France)"
           - "Prof. Charles Reiss (Concordia, Montréal)"
-        - title: Specialization
-          contents:
+        - Specialization:
             - "Experimental Neurolinguistics"
             - "Phonological Theory as Cognitive Science"
             - "Electro-encephalography (EEG)"
@@ -35,8 +34,7 @@
           - "Prof. Catherine T. Best (MARCS)"
           - "Prof. Anne Cutler (MARCS; Max Planck Institute of Psycholinguistics)"
           - "Prof. Jason Shaw (MARCS; Yale University)"
-        - title: Specialization
-          contents:
+        - Specialization:
             - "Experimental Psycholinguistics"
             - "Cognitive Psychology and Linguistic Theory"
             - "Speech perception"
@@ -48,8 +46,7 @@
       description:
         - Dissertation Title: "Coronal Obstruents and Constraint Interactions in Bangla."
         - Supervisors: "Prof. Jason Brown"
-        - title: Specialization
-          contents:
+        - Specialization:
             - "Phonological Theory"
             - "Optimality Theory"
             - "Linguistic Field Work"
@@ -61,19 +58,17 @@
       description:
         - Dissertation Title: "Bangla coronal assimilation."
         - Supervisors: "Prof. K.G. Vijaykrishnan"
-        - title: Specialization
-          contents:
+        - Specialization:
             - "Phonological Theory"
             - "Generative Grammar"
 
 - title: Experience
   type: time_table
   contents:
-  - title: Assistant Professor
+    - title: Assistant Professor
       institution: Department of Psychology, Krea University, India
       year: 2024 - Present
-      
-        
+
     - title: MITACS Globalink Research Fellow
       institution: Centre national de la recherche scientifique, CNRS (Nice, France)
       year: 2023 - 2024
@@ -98,7 +93,6 @@
         - "Advanced Phonology (2021)"
         - "Psycholinguistics (2022, 2023)"
 
-
     - title: Professional Teaching Fellow
       institution: The University of Auckland, New Zealand
       year: 2017
@@ -115,13 +109,13 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: "<a href='https://github.com/mandalsayantan/Mind-2-Brain'>Mind-2-Brainn</a>"
+    - title: Mind-2-Brain
       year: 2023-now
       description: "A Python Script for EEG stimulus presentation with timing accuracy checks using photodiodes."
-    - title: "<a href='https://github.com/mandalsayantan/fMRI-Block-Related-Minimal-Pair-Protocols'>TfMRI-Block-Related-Minimal-Pair-Protocols</a>"
+    - title: fMRI-Block-Related-Minimal-Pair-Protocols
       year: 2023
       description: "A set of GNU Octave scripts for visual, perceptual and production experiments using fMRI."
-    - title: "<a href='https://github.com/mandalsayantan/The-Summer-of-Python'>The-Summer-of-Python</a>"
+    - title: The-Summer-of-Python
       year: 2022-now
       description: "A customized forked course for programming in Python for cognitive scientists."
 
@@ -196,7 +190,6 @@
         - "Computational Models of Speech Perception and Production."
         - "Mathematical Linguistics & Sub-regular Phonology."
         - "Minimalism."
-        
 
 - title: Academic & Research Skills
   type: nested_list
