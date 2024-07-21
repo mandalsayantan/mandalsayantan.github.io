@@ -7,6 +7,7 @@ nav: true
 nav_order: 6
 ---
 
+**July, 2023 to Oct, 2023** History and Systems of Psychology. Krea University<br>
 **July, 2023 to Oct, 2023** Research Methods in Experimental Neurolinguistics. Université Concordia<br>
 **Jan, 2023 to May, 2023** Psycholinguistics. Université Concordia<br>
 **Sep, 2022 to Dec, 2022** Psycholinguistics. Université Concordia<br>
