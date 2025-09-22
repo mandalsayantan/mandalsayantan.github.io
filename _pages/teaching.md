@@ -6,8 +6,9 @@ description: Some courses I've taught and/or helped teach.
 nav: true
 nav_order: 6
 ---
-**Oct, 2024 to Jan, 2025** Psycholinguistics / Psychology of Language. Krea University<br>
-**Oct, 2024 to Jan, 2025** Cognitive Psychology. Krea University<br>
+**July, 2025 to Present** Evolutionary Psychology. Krea University<br>
+**Oct, 2024 to Present** Psycholinguistics / Psychology of Language. Krea University<br>
+**Oct, 2024 to Present** Cognitive Psychology. Krea University<br>
 **July, 2024 to Oct, 2024** History and Systems of Psychology. Krea University<br>
 **July, 2023 to Oct, 2023** Research Methods in Experimental Neurolinguistics. Université Concordia<br>
 **Jan, 2023 to May, 2023** Psycholinguistics. Université Concordia<br>
