@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Neural Wetwares for Phonological Software
-description: Neural Correlates of Phonological Primes
+description: Localizing phonological primes in the auditory cortex
 img: assets/img/fmri.png
 importance: 2
 category: work
