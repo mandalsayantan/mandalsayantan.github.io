@@ -1,7 +1,7 @@
 ---
 layout: page
 title: phonol|EEG|y
-description: EEG investigations of the neural signatures of phonological computations
+description: This project aims to isolate neurophysiological signatures of sub-modules of linguistic computation using EEG & MEG
 img: assets/img/eeg.png
 importance: 1
 category: work
