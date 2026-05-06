@@ -2,7 +2,7 @@
 layout: page
 title: Search | Alter
 description: A parametric framework factorizing phonological computation into SEARCH and ALTER primitives.
-img: assets/img/search_alter.png
+img: assets/img/search_alter.jpeg
 importance: 6
 category: work
 related_publications:
