@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 3 Colors of Velar Palatalization
-description: 
+description: Exploring the dynamics of the phonology-phonetics interface with a focus on velar palatalization
 img: assets/img/velar.jpg
 importance: 1
 category: work
