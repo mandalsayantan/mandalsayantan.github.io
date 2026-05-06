@@ -6,6 +6,8 @@ description: Some courses I've taught and/or helped teach.
 nav: true
 nav_order: 6
 ---
+**July, 2026 to Present** The Disembodied Mind: Computationalism & The Myths of Embodiment & Enactivism. Krea University<br>
+**July, 2026 to Present** Startling Starlings: Bird Song Syntax & Natural Language Phonology. Krea University<br>
 **July, 2025 to Present** Evolutionary Psychology. Krea University<br>
 **Oct, 2024 to Present** Psycholinguistics / Psychology of Language. Krea University<br>
 **Oct, 2024 to Present** Cognitive Psychology. Krea University<br>
