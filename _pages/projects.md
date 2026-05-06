@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Krea Biolinguistics Laboratory
 permalink: /projects/
 description: Current & Past Projects in my lab
 nav: true
