@@ -9,9 +9,9 @@ profile:
   image: me.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Rooms: 229, 408</p>
-    <p>Campus SJA3 - MSHS-SE, Université Cote d'Azure, Sophia Antipolis 4</p>
-    <p>25 Av. François Mitterrand, 06357 Nice, France</p>
+    <p>Room: 302</p>
+    <p>New Academic Block</p>
+    <p>Krea University, Division of Natural Sciences, Sri City - 517646, Andhra Pradesh, India</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
