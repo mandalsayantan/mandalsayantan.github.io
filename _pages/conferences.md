@@ -1,11 +1,30 @@
 ---
 layout: page
 permalink: /conferences/
-title: conferences
-description: Conference presentations and such...
+title: conferences & invited talks
+description: Invited talks and conference presentations.
 nav: true
 nav_order: 3
 ---
+
+## Invited Talks
+---
+
+**Mandal, S. (2026).** Biolinguistics & The Limits of Phonology. E.F.L. University, Hyderabad, India.
+
+**Mandal, S. (2022).** Substance-Free Phonology: A Biolinguistic Program for Phonological Theory. English and Foreign Languages University, Hyderabad, India.
+
+**Mandal, S. (2017).** Rhythm in Urama: Implications for Isochrony. Auckland University of Technology, Auckland, NZ.
+
+**Mandal, S. (2015).** Assimilation: Phonological and Perceptual. Macquarie University, Sydney, Australia.
+
+<br>
+
+## Conference Presentations
+---
+
+**Mandal, S. & Sengupta, R. (2026)** Free-Variation in the Bangla Coronal Sub-Space: A Stochastic OT Approach. 23èmes Rencontres du Réseau Français de Phonologie, Université Paris Cité / Université Sorbonne Nouvelle & CNRS
+
 **Mandal, S. & Biswas, B. (2023).** Partially-veridical transductions at the phonetics-phonology interface. 45th Annual Conference of the LInguistic Society of India, Aligarh Muslim University, Aligarh, India.
 
 **Mandal, S. & Biswas, B. (2023).** Partial-veridicality at the lower-interface. Western Conference on Linguistics-2022, California State University, Fresno, California
@@ -22,11 +41,11 @@ nav_order: 3
 
 **Mandal, S. (2023).** Equally Bizarre: Partial Veridicality between Primes and Substance. Twelfth North American Phonology Conference (NAPhCxii), Université Concordia, Montreal, Quebec.
 
-**Mandal, S. (2023).** Syllable-Free Phonology. 47th Penn Linguistics Conference, University ofPennsylvania. [Withdrawn due to immigration issues].
+**Mandal, S. (2023).** Syllable-Free Phonology. 47th Penn Linguistics Conference, University of Pennsylvania. [Withdrawn due to immigration issues].
 
-**Mandal, S. (2023).** Ghosts in the Cell: How the Brain Creates Symbols from Vibrations. Shifting the Balance:INDI Research Day, Concordia University, Montreal.
+**Mandal, S. (2023).** Ghosts in the Cell: How the Brain Creates Symbols from Vibrations. Shifting the Balance: INDI Research Day, Concordia University, Montreal.
 
-**Mandal, S. (2022).** The Cognitive Phonetics of Velar Palatalization.2022 Western Conference on Linguistics, California State University, Fresno, California.
+**Mandal, S. (2022).** The Cognitive Phonetics of Velar Palatalization. 2022 Western Conference on Linguistics, California State University, Fresno, California.
 
 **Mandal, S. (2021).** The syntax of phonology: Mirror-Image Rules. 2021 Western Conference on Linguistics, California State University, Fresno, California.
 
@@ -42,4 +61,4 @@ nav_order: 3
 
 **Mandal, S. (2013).** Rhythmic variation in Urama, Australasian Language Technology Association, Workshop-2013. Queensland University of Technology in Brisbane, Queensland, Australia.
 
-**Mandal, S., Brown, J., Lippsett, Z. (2012).** Syllable structure and rhythm in Urama, ASSTA Workshop on the Phonetic Analysis of Rhythm in Indigenous Languages, Australasian Speech-Science and TechnologyAssociation. University of Auckland, Auckland, NZ.
+**Mandal, S., Brown, J., Lippsett, Z. (2012).** Syllable structure and rhythm in Urama, ASSTA Workshop on the Phonetic Analysis of Rhythm in Indigenous Languages, Australasian Speech-Science and Technology Association. University of Auckland, Auckland, NZ.
