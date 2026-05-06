@@ -5,8 +5,8 @@ permalink: /projects/
 description: Current & Past Projects in my lab
 nav: true
 nav_order: 4
-display_categories: [work, fun]
-horizontal: false
+display_categories: []
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
