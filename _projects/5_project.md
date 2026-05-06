@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Info|Phonology|Theory
+title: Information Framework for Phonology
 description: A Dual-Level Information Framework for Phonological Computation.
 img: assets/img/info_theory.png
 importance: 5
